@@ -29,6 +29,9 @@
 
 # Other dirs
 .vscode/
+.ipynb_checkpoints/
+data/
+
 
 # OS generated files #
 ######################
