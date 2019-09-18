@@ -19,12 +19,16 @@
 *.rar
 *.tar
 *.zip
+*.whl
 
 # Logs and databases #
 ######################
 *.log
 *.sql
 *.sqlite
+
+# Other dirs
+.vscode/
 
 # OS generated files #
 ######################
@@ -35,3 +39,12 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+
+# images 
+####################
+*.jpg
+*.png
+*.bpm
+*.gif
+
